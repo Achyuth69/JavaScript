@@ -16,8 +16,17 @@ let isLoggedIn="achyuth"
 //let booleanIsLoggedIn = Boolean(isLoggedIn)
 //console.log(booleanIsLoggedIn)
 
-let someNumber = 35
-let stringNumber=String(someNumber)
-console.log(stringNumber)
-console.log(typeof stringNumber)
+// let someNumber = 35
+// let stringNumber=String(someNumber)
+// console.log(stringNumber)
+// console.log(typeof stringNumber)
 
+
+
+// ************************operations*************************
+
+let num = 9
+let negVal = -num
+let str1 = "Hello! "
+let str2 = "achyuth"
+console.log(str1 + str2);
